@@ -3,3 +3,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Yaktocat](https://cdn.pixabay.com/photo/2023/11/01/11/07/path-8357152_1280.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
